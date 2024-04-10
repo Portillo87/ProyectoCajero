@@ -1,0 +1,14 @@
+C:\Users\PEDIDOS.SECO\source\repos\Proyecto_2\Proyecto_2\bin\Debug\net8.0\Proyecto_2.exe
+C:\Users\PEDIDOS.SECO\source\repos\Proyecto_2\Proyecto_2\bin\Debug\net8.0\Proyecto_2.deps.json
+C:\Users\PEDIDOS.SECO\source\repos\Proyecto_2\Proyecto_2\bin\Debug\net8.0\Proyecto_2.runtimeconfig.json
+C:\Users\PEDIDOS.SECO\source\repos\Proyecto_2\Proyecto_2\bin\Debug\net8.0\Proyecto_2.dll
+C:\Users\PEDIDOS.SECO\source\repos\Proyecto_2\Proyecto_2\bin\Debug\net8.0\Proyecto_2.pdb
+C:\Users\PEDIDOS.SECO\source\repos\Proyecto_2\Proyecto_2\obj\Debug\net8.0\Proyecto_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PEDIDOS.SECO\source\repos\Proyecto_2\Proyecto_2\obj\Debug\net8.0\Proyecto_2.AssemblyInfoInputs.cache
+C:\Users\PEDIDOS.SECO\source\repos\Proyecto_2\Proyecto_2\obj\Debug\net8.0\Proyecto_2.AssemblyInfo.cs
+C:\Users\PEDIDOS.SECO\source\repos\Proyecto_2\Proyecto_2\obj\Debug\net8.0\Proyecto_2.csproj.CoreCompileInputs.cache
+C:\Users\PEDIDOS.SECO\source\repos\Proyecto_2\Proyecto_2\obj\Debug\net8.0\Proyecto_2.dll
+C:\Users\PEDIDOS.SECO\source\repos\Proyecto_2\Proyecto_2\obj\Debug\net8.0\refint\Proyecto_2.dll
+C:\Users\PEDIDOS.SECO\source\repos\Proyecto_2\Proyecto_2\obj\Debug\net8.0\Proyecto_2.pdb
+C:\Users\PEDIDOS.SECO\source\repos\Proyecto_2\Proyecto_2\obj\Debug\net8.0\Proyecto_2.genruntimeconfig.cache
+C:\Users\PEDIDOS.SECO\source\repos\Proyecto_2\Proyecto_2\obj\Debug\net8.0\ref\Proyecto_2.dll
